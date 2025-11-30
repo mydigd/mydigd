@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**mydigd/mydigd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi! 👋 I'm Digna Mae D. Domagtoy </h1>
+<br>
+<h2> 📚 Education </h2>
+<p> Bachelor of Science in Information Technology</p>
+<p> 2024 - Current </p>
 
-Here are some ideas to get you started:
+<br> 
+<h3> 📜 Certification </h3>
+<a href="https://courses.cognitiveclass.ai/certificates/c596d77d4345487194e585abb23af901"> SQL and Relational Databases 101 </a>
+<br> <br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> 💻 Skills </h4>
+<table> 
+<tr> 
+  <th> 👩🏻‍💻 Technical Skills</th>
+  <th> 👥 Soft Skills </th>
+</tr>
+<tr>
+  <td><b> Programming Languages: </b> HTML, CSS, Java, SQL</td>
+  <td>Team collaboration and leadership</td>
+</tr>
+<tr>
+  <td> <b> Web Development: </b> HTML, CSS, Node.js, Figma </td>
+  <td> Adaptability to new technologies </td>
+</tr>
+<tr>
+  <td> <b> Networking:</b> Basic LAN Setup </td>
+  <td> Time management and organization  </td>
+</tr>
+</table>
