@@ -6,11 +6,11 @@
 <p> 2024 - Current </p>
 
 <br> 
-<h3> 📜 Certification </h3>
+<h2> 📜 Certification </h2>
 <a href="https://courses.cognitiveclass.ai/certificates/c596d77d4345487194e585abb23af901"> SQL and Relational Databases 101 </a>
 <br> <br> 
 
-<h4> 💻 Skills </h4>
+<h2> 💻 Skills </h2>
 <table> 
 <tr> 
   <th> 👩🏻‍💻 Technical Skills</th>
