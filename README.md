@@ -8,6 +8,7 @@
 <br> 
 <h2> 📜 Certification </h2>
 <a href="https://courses.cognitiveclass.ai/certificates/c596d77d4345487194e585abb23af901"> SQL and Relational Databases 101 </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FFDF8A5D4D169AF5A2107821A59D5D8C012A9EE27CFE90F6DF3FE823B0BF0EE"> Oracle Cloud Infrastructure 2025 </a>
 <br> <br> 
 
 <h2> 💻 Skills </h2>
