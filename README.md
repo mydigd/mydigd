@@ -10,6 +10,7 @@
 <a href="https://courses.cognitiveclass.ai/certificates/c596d77d4345487194e585abb23af901"> SQL and Relational Databases 101 </a> <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FFDF8A5D4D169AF5A2107821A59D5D8C012A9EE27CFE90F6DF3FE823B0BF0EE"> Oracle Cloud Infrastructure 2025 </a> <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=86DDC048111C70B1EA2969D109408E5DDFEF6D4838DD234365BB68A142B8BCBD"> Become an Oracle Data Platform Foundations Associate 2025 </a> <br>
+<a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=BE16E5383EC566263CA2F5B3F8A2631EF7D08E56EA5D4DA4FB8AEFF0CE57E3EA"> Become An OCI AI Foundations Associate (2025) </a>
 <br> <br> 
 
 <h2> 💻 Skills </h2>
