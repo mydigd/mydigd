@@ -20,7 +20,7 @@
   <th> 👥 Soft Skills </th>
 </tr>
 <tr>
-  <td><b> Programming Languages: </b> HTML, CSS, Java, SQL</td>
+  <td><b> Programming Languages: </b> HTML, CSS, Java,JavaScript, SQL</td>
   <td>Team collaboration and leadership</td>
 </tr>
 <tr>
